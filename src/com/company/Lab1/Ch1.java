@@ -1,14 +1,7 @@
-package com.company;
-
-import com.sun.security.jgss.GSSUtil;
+package com.company.Lab1;
 
 public class Main {
-
     public static void main(String[] args) {
 
-
-
-
     }
-
 }
