@@ -1,6 +1,6 @@
-package com.company.Lab2;
+package com.company.lab2;
 
-public class Main {
+public class MainCh1 {
     public static void main(String[] args) {
 
         Fighter fighter1 = new Fighter(100, 14, "Player1");

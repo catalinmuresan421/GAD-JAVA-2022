@@ -1,4 +1,4 @@
-package com.company.Lab1;
+package com.company.lab1;
 
 public class Ch1 {
     public static void main(String[] args) {
