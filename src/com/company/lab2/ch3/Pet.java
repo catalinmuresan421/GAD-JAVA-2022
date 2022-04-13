@@ -1,4 +1,4 @@
-package com.company.lab1;
+package com.company.lab2.ch3;
 
 public interface Pet {
     String getName();

@@ -1,4 +1,4 @@
-package com.company.lab2;
+package com.company.lab2.ch3;
 
 public class Spider extends Animal {
     Spider(){

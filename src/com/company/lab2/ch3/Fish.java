@@ -1,6 +1,4 @@
-package com.company.lab2;
-
-import com.company.lab1.Pet;
+package com.company.lab2.ch3;
 
 public class Fish extends Animal implements Pet {
 
