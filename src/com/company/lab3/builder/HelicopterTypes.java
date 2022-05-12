@@ -1,2 +1,8 @@
-package com.company.lab3.builder;public class HelicopterTypes {
+package com.company.lab3.builder;
+
+public enum HelicopterTypes {
+    ATTACK,
+    MEDICAL,
+    CARGO,
+    CIVIL
 }
