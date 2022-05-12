@@ -1,4 +1,4 @@
-package com.company.lab4.ocurrence;
+package com.company.lab4.occurrence;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class CountEachWords {
     static void CountWords(Map<String, Integer> words) throws FileNotFoundException {
-        Scanner file = new Scanner(new File("Java Curs GAD\\src\\com\\company\\lab4\\ocurrence"));
+        Scanner file = new Scanner(new File("Java Curs GAD\\src\\com\\company\\lab4\\occurrence"));
         while (file.hasNext()) {
             String word = file.next();
             Integer count = words.get(word);
